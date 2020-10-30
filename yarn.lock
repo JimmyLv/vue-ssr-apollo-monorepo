@@ -1501,26 +1501,29 @@
   version "3.0.4"
   resolved "https://nexus.cd.korprulu.com/repository/npm/@vue/cli-overlay/-/cli-overlay-3.0.4.tgz#6d5640021906d35e5572c186c3f35b4e7a93c247"
 
-"@vue/cli-plugin-babel@^3.0.0":
+"@vue/cli-plugin-babel@3.0.4":
   version "3.0.4"
-  resolved "https://nexus.cd.korprulu.com/repository/npm/@vue/cli-plugin-babel/-/cli-plugin-babel-3.0.4.tgz#f2e4a12f498e285fdc605ad29df4b9b0d4a0eb10"
+  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-babel/-/cli-plugin-babel-3.0.4.tgz#f2e4a12f498e285fdc605ad29df4b9b0d4a0eb10"
+  integrity sha512-JpA0fu1eYSaMGxqRgE6NKb29up10PGXYQ2hbUtiVsdZRgHTdx2uuEwCiPoi9icIt7Mh6SdQZADLEiDYZtnK2Dg==
   dependencies:
     "@babel/core" "7.0.0-beta.47"
     "@vue/babel-preset-app" "^3.0.4"
     babel-loader "^8.0.0-0"
 
-"@vue/cli-plugin-e2e-cypress@^3.0.0":
+"@vue/cli-plugin-e2e-cypress@3.0.4":
   version "3.0.4"
-  resolved "https://nexus.cd.korprulu.com/repository/npm/@vue/cli-plugin-e2e-cypress/-/cli-plugin-e2e-cypress-3.0.4.tgz#63660a083dfea4da8281fa1d60d5843ee0dc2add"
+  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-e2e-cypress/-/cli-plugin-e2e-cypress-3.0.4.tgz#63660a083dfea4da8281fa1d60d5843ee0dc2add"
+  integrity sha512-Kd2cA0bWDcQaVRkZ5Dw8EQG/UVF4RKREvPHrYu++sV3d/xkWsiKqJRHsypcG4t/em5vacWrAjgcAA++kFHyvUg==
   dependencies:
     "@cypress/webpack-preprocessor" "^3.0.0"
     "@vue/cli-shared-utils" "^3.0.4"
     cypress "^3.0.2"
     eslint-plugin-cypress "^2.0.1"
 
-"@vue/cli-plugin-eslint@^3.0.0":
+"@vue/cli-plugin-eslint@3.0.4":
   version "3.0.4"
-  resolved "https://nexus.cd.korprulu.com/repository/npm/@vue/cli-plugin-eslint/-/cli-plugin-eslint-3.0.4.tgz#0c62607c44a3b63fc730fdc0dd0ad5165bc559f6"
+  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-eslint/-/cli-plugin-eslint-3.0.4.tgz#0c62607c44a3b63fc730fdc0dd0ad5165bc559f6"
+  integrity sha512-6B1IbCPXTu2DvEugDiEFkg5WGjIJ/82MXdHS1J+lYlI2u5ooVNJ6DjHerdpHpCxmM4dBoDNNLI57ZcLFGyv/KA==
   dependencies:
     "@vue/cli-shared-utils" "^3.0.4"
     babel-eslint "^8.2.5"
@@ -1528,9 +1531,10 @@
     eslint-loader "^2.0.0"
     eslint-plugin-vue "^4.5.0"
 
-"@vue/cli-plugin-unit-jest@^3.0.0":
+"@vue/cli-plugin-unit-jest@3.0.4":
   version "3.0.4"
-  resolved "https://nexus.cd.korprulu.com/repository/npm/@vue/cli-plugin-unit-jest/-/cli-plugin-unit-jest-3.0.4.tgz#28196d85f6aab1b4045fce40cf194b9b6001009c"
+  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-unit-jest/-/cli-plugin-unit-jest-3.0.4.tgz#28196d85f6aab1b4045fce40cf194b9b6001009c"
+  integrity sha512-NwCgGRbjTmpm5IOkcTp/NuHhY4qlm2EYZo0R/tUuHLupXaQFwrxqjCjkG4s3/R99uE4IE+8OKrxGoD07GUm//g==
   dependencies:
     "@vue/cli-shared-utils" "^3.0.4"
     babel-jest "^23.4.0"
@@ -1540,9 +1544,10 @@
     jest-transform-stub "^1.0.0"
     vue-jest "^2.6.0"
 
-"@vue/cli-service@^3.0.0":
+"@vue/cli-service@3.0.4":
   version "3.0.4"
-  resolved "https://nexus.cd.korprulu.com/repository/npm/@vue/cli-service/-/cli-service-3.0.4.tgz#0084569470a742a3c9adf32e8815c4760eaafd96"
+  resolved "https://registry.yarnpkg.com/@vue/cli-service/-/cli-service-3.0.4.tgz#0084569470a742a3c9adf32e8815c4760eaafd96"
+  integrity sha512-Z7kA6r0DQOvJUZmgK6yHixk8AxekTK04pU/YkRgzhIzz+giZ6913fQ1RrsDWsUzEjlh0FneKx1eMo0eDq79zvQ==
   dependencies:
     "@intervolga/optimize-cssnano-plugin" "^1.0.5"
     "@vue/cli-overlay" "^3.0.4"
@@ -1625,9 +1630,10 @@
     source-map "^0.5.6"
     vue-template-es2015-compiler "^1.6.0"
 
-"@vue/eslint-config-prettier@^3.0.4":
+"@vue/eslint-config-prettier@3.0.4":
   version "3.0.4"
-  resolved "https://nexus.cd.korprulu.com/repository/npm/@vue/eslint-config-prettier/-/eslint-config-prettier-3.0.4.tgz#e895926625b06d865f9973271684bc61a15b33a7"
+  resolved "https://registry.yarnpkg.com/@vue/eslint-config-prettier/-/eslint-config-prettier-3.0.4.tgz#e895926625b06d865f9973271684bc61a15b33a7"
+  integrity sha512-A3Elc9YsqOz+zVk9dYLpMk+YMPI6einY67xyZjYTi1eKbhDvD28G/jLCW6dtM2V0ckMEUByAxf7oZmiv1CcSDQ==
   dependencies:
     eslint-config-prettier "^2.9.0"
     eslint-plugin-prettier "^2.6.2"
@@ -1637,9 +1643,10 @@
   version "1.1.0"
   resolved "https://nexus.cd.korprulu.com/repository/npm/@vue/preload-webpack-plugin/-/preload-webpack-plugin-1.1.0.tgz#d768dba004261c029b53a77c5ea2d5f9ee4f3cce"
 
-"@vue/test-utils@^1.0.0-beta.20":
+"@vue/test-utils@1.0.0-beta.25":
   version "1.0.0-beta.25"
-  resolved "https://nexus.cd.korprulu.com/repository/npm/@vue/test-utils/-/test-utils-1.0.0-beta.25.tgz#4703076de3076bac42cdd242cd53e6fb8752ed8c"
+  resolved "https://registry.yarnpkg.com/@vue/test-utils/-/test-utils-1.0.0-beta.25.tgz#4703076de3076bac42cdd242cd53e6fb8752ed8c"
+  integrity sha512-mfvguEmEpAn0BuT4u+qm+0J1NTKgQS+ffUyWHY1QeSovIkJcy98fj1rO+PJgiZSEvGjjnDNX+qmofYFPLrofbA==
   dependencies:
     lodash "^4.17.4"
 
@@ -2493,7 +2500,7 @@ babel-helpers@^6.24.1:
     babel-runtime "^6.22.0"
     babel-template "^6.24.1"
 
-babel-jest@^23.0.1, babel-jest@^23.4.0, babel-jest@^23.6.0:
+babel-jest@23.6.0, babel-jest@^23.4.0, babel-jest@^23.6.0:
   version "23.6.0"
   resolved "https://nexus.cd.korprulu.com/repository/npm/babel-jest/-/babel-jest-23.6.0.tgz#a644232366557a2240a0c083da6b25786185a2f1"
   dependencies:
@@ -4279,9 +4286,10 @@ eslint-plugin-cypress@^2.0.1:
   dependencies:
     globals "^11.0.1"
 
-eslint-plugin-graphql@^2.1.1:
+eslint-plugin-graphql@2.1.1:
   version "2.1.1"
-  resolved "https://nexus.cd.korprulu.com/repository/npm/eslint-plugin-graphql/-/eslint-plugin-graphql-2.1.1.tgz#dae5d597080075320ea8e98795056309ffe73a18"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-graphql/-/eslint-plugin-graphql-2.1.1.tgz#dae5d597080075320ea8e98795056309ffe73a18"
+  integrity sha512-JT2paUyu3e9ZDnroSshwUMc6pKcnkfXTsZInX1+/rPotvqOLVLtdrx/cmfb7PTJwjiEAshwcpm3/XPdTpsKJPw==
   dependencies:
     graphql-config "^2.0.1"
     lodash "^4.11.1"
@@ -5233,9 +5241,10 @@ graphql-subscriptions@^1.0.0:
   dependencies:
     iterall "^1.2.1"
 
-graphql-tag@^2.9.0, graphql-tag@^2.9.2:
+graphql-tag@2.9.2, graphql-tag@^2.9.2:
   version "2.9.2"
-  resolved "https://nexus.cd.korprulu.com/repository/npm/graphql-tag/-/graphql-tag-2.9.2.tgz#2f60a5a981375f430bf1e6e95992427dc18af686"
+  resolved "https://registry.yarnpkg.com/graphql-tag/-/graphql-tag-2.9.2.tgz#2f60a5a981375f430bf1e6e95992427dc18af686"
+  integrity sha512-qnNmof9pAqj/LUzs3lStP0Gw1qhdVCUS7Ab7+SUB6KD5aX1uqxWQRwMnOGTkhKuLvLNIs1TvNz+iS9kUGl1MhA==
 
 graphql-tools@^3.0.4:
   version "3.1.1"
@@ -5247,9 +5256,10 @@ graphql-tools@^3.0.4:
     iterall "^1.1.3"
     uuid "^3.1.0"
 
-graphql-type-json@^0.2.1:
+graphql-type-json@0.2.1:
   version "0.2.1"
-  resolved "https://nexus.cd.korprulu.com/repository/npm/graphql-type-json/-/graphql-type-json-0.2.1.tgz#d2c177e2f1b17d87f81072cd05311c0754baa420"
+  resolved "https://registry.yarnpkg.com/graphql-type-json/-/graphql-type-json-0.2.1.tgz#d2c177e2f1b17d87f81072cd05311c0754baa420"
+  integrity sha1-0sF34vGxfYf4EHLNBTEcB1S6pCA=
 
 graphql@^14.0.2:
   version "14.0.2"
@@ -6651,9 +6661,10 @@ levn@^0.3.0, levn@~0.3.0:
     prelude-ls "~1.1.2"
     type-check "~0.3.2"
 
-lint-staged@^7.2.2:
+lint-staged@7.3.0:
   version "7.3.0"
-  resolved "https://nexus.cd.korprulu.com/repository/npm/lint-staged/-/lint-staged-7.3.0.tgz#90ff33e5ca61ed3dbac35b6f6502dbefdc0db58d"
+  resolved "https://registry.yarnpkg.com/lint-staged/-/lint-staged-7.3.0.tgz#90ff33e5ca61ed3dbac35b6f6502dbefdc0db58d"
+  integrity sha512-AXk40M9DAiPi7f4tdJggwuKIViUplYtVj1os1MVEteW7qOkU50EOehayCfO9TsoGK24o/EsWb41yrEgfJDDjCw==
   dependencies:
     chalk "^2.3.1"
     commander "^2.14.1"
@@ -6904,9 +6915,10 @@ loud-rejection@^1.0.0:
     currently-unhandled "^0.4.1"
     signal-exit "^3.0.0"
 
-lowdb@^1.0.0:
+lowdb@1.0.0:
   version "1.0.0"
-  resolved "https://nexus.cd.korprulu.com/repository/npm/lowdb/-/lowdb-1.0.0.tgz#5243be6b22786ccce30e50c9a33eac36b20c8064"
+  resolved "https://registry.yarnpkg.com/lowdb/-/lowdb-1.0.0.tgz#5243be6b22786ccce30e50c9a33eac36b20c8064"
+  integrity sha512-2+x8esE/Wb9SQ1F9IHaYWfsC9FIecLOPrK4g17FGEayjUWH172H6nwicRovGvSE2CPZouc2MCIqCI7h9d+GftQ==
   dependencies:
     graceful-fs "^4.1.3"
     is-promise "^2.1.0"
@@ -7403,9 +7415,10 @@ node-releases@^1.0.0-alpha.11:
   dependencies:
     semver "^5.3.0"
 
-node-sass@^4.9.0:
+node-sass@4.9.3:
   version "4.9.3"
-  resolved "https://nexus.cd.korprulu.com/repository/npm/node-sass/-/node-sass-4.9.3.tgz#f407cf3d66f78308bb1e346b24fa428703196224"
+  resolved "https://registry.yarnpkg.com/node-sass/-/node-sass-4.9.3.tgz#f407cf3d66f78308bb1e346b24fa428703196224"
+  integrity sha512-XzXyGjO+84wxyH7fV6IwBOTrEBe2f0a6SBze9QWWYR/cL74AcQUks2AsqcCZenl/Fp/JVbuEaLpgrLtocwBUww==
   dependencies:
     async-foreach "^0.1.3"
     chalk "^1.1.1"
@@ -9013,9 +9026,10 @@ sass-graph@^2.2.4:
     scss-tokenizer "^0.2.3"
     yargs "^7.0.0"
 
-sass-loader@^7.0.1:
+sass-loader@7.1.0:
   version "7.1.0"
-  resolved "https://nexus.cd.korprulu.com/repository/npm/sass-loader/-/sass-loader-7.1.0.tgz#16fd5138cb8b424bf8a759528a1972d72aad069d"
+  resolved "https://registry.yarnpkg.com/sass-loader/-/sass-loader-7.1.0.tgz#16fd5138cb8b424bf8a759528a1972d72aad069d"
+  integrity sha512-+G+BKGglmZM2GUSfT9TLuEp6tzehHPjAMoRRItOojWIqIGPloVCMhNIQuG639eJ+y033PaGTSjLaTHts8Kw79w==
   dependencies:
     clone-deep "^2.0.1"
     loader-utils "^1.0.1"
@@ -9193,9 +9207,10 @@ shellwords@^0.1.1:
   version "0.1.1"
   resolved "https://nexus.cd.korprulu.com/repository/npm/shellwords/-/shellwords-0.1.1.tgz#d6b9181c1a48d397324c84871efbcfc73fc0654b"
 
-shortid@^2.2.8:
+shortid@2.2.13:
   version "2.2.13"
-  resolved "https://nexus.cd.korprulu.com/repository/npm/shortid/-/shortid-2.2.13.tgz#b2441e71c664ace458a341d343959f677910ef5b"
+  resolved "https://registry.yarnpkg.com/shortid/-/shortid-2.2.13.tgz#b2441e71c664ace458a341d343959f677910ef5b"
+  integrity sha512-dBuNnQGKrJNfjunmXI2X7bl1gnMO4PwbNxrTzO1JvilODmL7WyyCtA+DYxe9XunLXmxmgzFIvKPQ6XRAQrr46Q==
   dependencies:
     nanoid "^1.0.7"
 
@@ -10181,16 +10196,18 @@ vm-browserify@0.0.4:
   dependencies:
     indexof "0.0.1"
 
-vue-apollo@^3.0.0-beta.11:
+vue-apollo@3.0.0-beta.25:
   version "3.0.0-beta.25"
-  resolved "https://nexus.cd.korprulu.com/repository/npm/vue-apollo/-/vue-apollo-3.0.0-beta.25.tgz#05a9a699b2ba6103639e9bd6c3bb88ca04c4b637"
+  resolved "https://registry.yarnpkg.com/vue-apollo/-/vue-apollo-3.0.0-beta.25.tgz#05a9a699b2ba6103639e9bd6c3bb88ca04c4b637"
+  integrity sha512-M7/l3h0NlFvaZ/s/wrtRiOt3xXMbaNNuteGaCY+U5D0ABrQqvCgy5mayIZHurQxbloluNkbCt18wRKAgJTAuKA==
   dependencies:
     chalk "^2.4.1"
     throttle-debounce "^2.0.0"
 
-vue-cli-plugin-apollo@^0.17.0:
+vue-cli-plugin-apollo@0.17.0:
   version "0.17.0"
-  resolved "https://nexus.cd.korprulu.com/repository/npm/vue-cli-plugin-apollo/-/vue-cli-plugin-apollo-0.17.0.tgz#c7a91933eda04e6e28758351544be15ca12d75a8"
+  resolved "https://registry.yarnpkg.com/vue-cli-plugin-apollo/-/vue-cli-plugin-apollo-0.17.0.tgz#c7a91933eda04e6e28758351544be15ca12d75a8"
+  integrity sha512-tCDvE/ah9UfBDR6kqxa6V78oqCq6gOsdqvdd5xXDGgwnWzxvP+JGsn42M3CDWp0aZRvbTIb4/GZIj6izqkoLcQ==
   dependencies:
     apollo-cache-inmemory "^1.2.10"
     apollo-client "^2.4.2"
@@ -10259,9 +10276,10 @@ vue-style-loader@^4.1.0:
     hash-sum "^1.0.2"
     loader-utils "^1.0.2"
 
-vue-template-compiler@^2.5.17:
+vue-template-compiler@2.5.17:
   version "2.5.17"
-  resolved "https://nexus.cd.korprulu.com/repository/npm/vue-template-compiler/-/vue-template-compiler-2.5.17.tgz#52a4a078c327deb937482a509ae85c06f346c3cb"
+  resolved "https://registry.yarnpkg.com/vue-template-compiler/-/vue-template-compiler-2.5.17.tgz#52a4a078c327deb937482a509ae85c06f346c3cb"
+  integrity sha512-63uI4syCwtGR5IJvZM0LN5tVsahrelomHtCxvRkZPJ/Tf3ADm1U1wG6KWycK3qCfqR+ygM5vewUvmJ0REAYksg==
   dependencies:
     de-indent "^1.0.2"
     he "^1.1.0"
@@ -10270,9 +10288,10 @@ vue-template-es2015-compiler@^1.6.0:
   version "1.6.0"
   resolved "https://nexus.cd.korprulu.com/repository/npm/vue-template-es2015-compiler/-/vue-template-es2015-compiler-1.6.0.tgz#dc42697133302ce3017524356a6c61b7b69b4a18"
 
-vue@^2.5.17:
+vue@2.5.17:
   version "2.5.17"
-  resolved "https://nexus.cd.korprulu.com/repository/npm/vue/-/vue-2.5.17.tgz#0f8789ad718be68ca1872629832ed533589c6ada"
+  resolved "https://registry.yarnpkg.com/vue/-/vue-2.5.17.tgz#0f8789ad718be68ca1872629832ed533589c6ada"
+  integrity sha512-mFbcWoDIJi0w0Za4emyLiW72Jae0yjANHbCVquMKijcavBGypqlF7zHRgMa5k4sesdv7hv2rB4JPdZfR+TPfhQ==
 
 w3c-hr-time@^1.0.1:
   version "1.0.1"
